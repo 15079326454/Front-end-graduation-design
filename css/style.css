@@ -281,7 +281,7 @@ header ul.nav li ul li ul {
   border-right: none;
   border-bottom: none;
   border-left: none;
-  border-bottom-color: none;
+  /*border-bottom-color: none;*/
   content:none;
 }
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
@@ -447,7 +447,7 @@ border-radius:0;
 .testimonial-area {
 padding: 0 0 0 0;
 margin:0;
-background: url(../img/low-poly01.jpg) fixed center center;
+background: fixed center center;
 background-size: cover;
 -webkit-background-size: cover;
 -moz-background-size: cover;
@@ -1450,7 +1450,7 @@ article img.pull-right, article .align-right{
 	float:right;
 	margin:5px 0 15px 15px;
 }
- ============================= */
+
 
 .clear-marginbot{
 	margin-bottom:0;
@@ -1551,6 +1551,8 @@ article img.pull-right, article .align-right{
 background: none;
 font-weight: 700;
 color: #26AFF0;
+
+
 }
 	header .navbar-nav > li {
 padding-bottom: 0px;
@@ -1680,7 +1682,15 @@ padding-top: 2px;
 		height:20px;
 		font-size:14px;
 	}
+img.img-responsive img:hover{
+	　　-webkit-transform:scale(2,2);
 
+	　　-moz-transform:scale(2,2);
+
+	　　-transform:scale(2,2);
+
+	　　z-index:9999;
+}
 
 }
 

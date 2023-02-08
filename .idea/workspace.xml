@@ -1,35 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba3fbd33-0334-4fbc-a0c2-32a9950fd7ab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/4站.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/5站.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/6站.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/works/丕.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/works/关羽.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/works/典.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/works/刘备.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/works/司马懿.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/works/吕蒙.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/works/周瑜.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/works/夏.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/works/孙坚.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/works/孙权.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/works/孙策.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/works/张辽.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/works/曹.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/works/许褚.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/works/诸葛亮.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/works/贾诩.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/works/陆逊.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/works/顾雍.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/works/马良.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/works/鲁肃.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/一站.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/二战.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/站3.jpg" afterDir="false" />
+    <list default="true" id="ba3fbd33-0334-4fbc-a0c2-32a9950fd7ab" name="Default Changelist" comment="更新">
+      <change afterPath="$PROJECT_DIR$/img/beautiful/大乔.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/beautiful/孙尚香.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/beautiful/小乔.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/beautiful/樊氏.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/beautiful/步夫人.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/beautiful/甄姬.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/beautiful/祝融.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/beautiful/蔡琰.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/beautiful/貂蝉.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/beautiful/邹氏.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/works/张飞.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/works/赵云.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/works/马超.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/works/黄忠.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/三国.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/疆域.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pricing.html" beforeDir="false" afterPath="$PROJECT_DIR$/pricing.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +39,7 @@
       </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="ProjectId" id="2LMIdmTFXDftHJWeAJWzy7m530F" />
   <component name="ProjectLevelVcsManager">
@@ -64,19 +59,6 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -87,7 +69,16 @@
       <updated>1675674616316</updated>
       <workItem from="1675674619091" duration="2536000" />
       <workItem from="1675731418529" duration="15343000" />
+      <workItem from="1675818196723" duration="13831000" />
     </task>
+    <task id="LOCAL-00001" summary="更新">
+      <created>1675818274353</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675818274353</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,5 +98,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新" />
   </component>
 </project>
