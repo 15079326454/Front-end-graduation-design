@@ -1,7 +1,111 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba3fbd33-0334-4fbc-a0c2-32a9950fd7ab" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/img/4站.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/5站.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/6站.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/works/丕.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/works/关羽.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/works/典.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/works/刘备.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/works/司马懿.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/works/吕蒙.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/works/周瑜.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/works/夏.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/works/孙坚.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/works/孙权.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/works/孙策.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/works/张辽.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/works/曹.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/works/许褚.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/works/诸葛亮.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/works/贾诩.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/works/陆逊.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/works/顾雍.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/works/马良.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/works/鲁肃.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/一站.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/二战.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/站3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio.html" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/services.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2LMIdmTFXDftHJWeAJWzy7m530F" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ChangesTree.GroupingKeys" value="module" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba3fbd33-0334-4fbc-a0c2-32a9950fd7ab" name="Default Changelist" comment="" />
+      <created>1675674616316</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675674616316</updated>
+      <workItem from="1675674619091" duration="2536000" />
+      <workItem from="1675731418529" duration="15343000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
